@@ -1,0 +1,21 @@
+.about {
+  background: linear-gradient(120deg, #ff9a9e, #fad0c4);
+  color: #333;
+  padding: 80px 20px;
+  text-align: center;
+  border-radius: 12px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+}
+
+.about h2 {
+  color: #d63384;
+  margin-bottom: 20px;
+  font-weight: bold;
+}
+
+.about p {
+  max-width: 700px;
+  margin: auto;
+  font-size: 1.1rem;
+  line-height: 1.8;
+}
